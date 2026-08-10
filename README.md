@@ -17,3 +17,6 @@ The dryer power and timer option is for a custom dryer I have in my cfs that is 
 <picture>
   <a href="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" target=_new><img src="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" alt="" style="width:480px;"></a>
 </picture>
+
+
+The idea and credits go to DaviBe92 who's repo is at https://github.com/DaviBe92/k2-websocket-re
