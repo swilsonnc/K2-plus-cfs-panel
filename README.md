@@ -10,7 +10,7 @@ Alternatively you can edit the index.html and add the following right under the 
 <script src="/cfs-panel.js" defer></script>
 ```
 
-This will create the cfs panel on the mainsail pages but it will be static at top left and cannot be moved too any other position on the dashboard.
+This will create the cfs panel on the mainsail pages but it will be static at top left of the dashboard and cannot be moved too any other position on the dashboard.
 
 The dryer power and timer option is for a custom dryer I have in my cfs that is on a smart plug and will not work for your use most likely.
 
