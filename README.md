@@ -15,5 +15,5 @@ This will create the cfs panel on the mainsail pages but it will be static at to
 The dryer power and timer option is for a custom dryer I have in my cfs that is on a smart plug and will not work for your use most likely.
 
 <picture>
-  <a href="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" target=_new><img src="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" alt="" style="width:180px;"></a>
+  <a href="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" target=_new><img src="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/main/image.jpg" alt="" style="width:640px;"></a>
 </picture>
