@@ -13,3 +13,6 @@ Alternatively you can edit the index.html and add the following right under the 
 This will create the cfs panel on the mainsail pages but it will be static at top left and cannot be moved too any other position on the dashboard.
 
 The dryer power and timer option is for a custom dryer I have in my cfs that is on a smart plug and will not work for your use most likely.
+
+<picture>
+  <a href="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/master/Screenshot 2026-08-10 000722.png" target=_new><img src="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/master/Screenshot 2026-08-10 000722.png" alt="" style="width:180px;"></a>
