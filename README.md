@@ -16,3 +16,4 @@ The dryer power and timer option is for a custom dryer I have in my cfs that is 
 
 <picture>
   <a href="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/master/image.jpg" target=_new><img src="https://github.com/swilsonnc/K2-plus-cfs-panel/blob/master/image.jpg" alt="" style="width:180px;"></a>
+</picture>
