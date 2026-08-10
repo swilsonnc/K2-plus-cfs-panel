@@ -4,7 +4,7 @@
 
 To install this you need to upload the cfs-panel.js and index.html into your /usr/share/mainsail folder on your printer via SSH overwriting the existing files (make backup of index.html first)
 
-Alternatively you can edit the index.html and add the following right under the <div id="app"></div> line and save
+Alternatively you can edit the index.html and add the following right under the ```bash<div id="app"></div>``` line and save
 
 ```bash
 <script src="/cfs-panel.js" defer></script>
